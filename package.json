@@ -1,0 +1,17 @@
+{
+	"name": "pug_practice",
+	"version": "1.0.0",
+	"description": "test package for pug and git practice",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"eslint": "^8.4.1",
+		"prettier": "2.8.3",
+		"pug": "^3.0.2",
+		"sass": "^1.43.4"
+	},
+	"author": "Yurii",
+	"license": "ISC"
+}
