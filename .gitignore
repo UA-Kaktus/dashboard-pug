@@ -13,6 +13,8 @@
 *.swp
 tags
 nbproject/*
+tutorial_gittxt.txt
+tutorial_verstkatxt.txt
 
 # Windows
 Thumbs.db
